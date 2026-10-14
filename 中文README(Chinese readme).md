@@ -1,6 +1,6 @@
 # 美化windows11指南(劳资没写完)
 
-### This is the Chinese guide,**go to[English]()**
+### This is the Chinese guide,**[go to English](https://github.com/I-am-XCY/Beautify-your-Windows11/blob/main/README.md)**
 
 ## 声明
 1. 我并不是什么电脑专家，教程以个人角度来讲，电脑出事了的话别找我。
