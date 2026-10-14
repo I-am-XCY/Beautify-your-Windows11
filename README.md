@@ -1,6 +1,6 @@
-# Windows 11 Beautification Guide
+# Windows 11 Beautification Guide(fk i'm not done this)
 
-### 这是英语指南, **去看[中文](https://github.com/I-am-XCY/Beautify-your-Windows11/blob/main/%E4%B8%AD%E6%96%87README(Chinese%20readme).md)**
+### 这是英语指南, **[让我们说中文](https://github.com/I-am-XCY/Beautify-your-Windows11/blob/main/%E4%B8%AD%E6%96%87README(Chinese%20readme).md)**
 
 ## Disclaimer
 1. I'm not a PC expert by any means — this guide is written purely from my own experience. If anything goes wrong with your computer, don't come knocking on my door.
